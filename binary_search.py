@@ -1,4 +1,4 @@
-# Binary Search 二分搜尋
+# Binary Search 二元搜尋、二分查找法  O(log n)
 def binary_search(aList, item): #遞迴
     #print(aList)
     n = len(aList)
