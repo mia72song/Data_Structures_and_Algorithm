@@ -35,7 +35,7 @@ def binary_search2(aList, item):
     
 if __name__=="__main__" :
     import random
-    alist = random.sample(range(0, 20), 9) 
+    alist = random.sample(range(0, 21), 9) 
     
     from sort import bubble_sort
     alist = bubble_sort(alist)
